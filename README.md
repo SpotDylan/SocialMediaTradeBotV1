@@ -21,4 +21,4 @@ DateTime
 pandas
 webdriver-manager
 
-DISCLAIMER:The Content within these files are for informational purposes only, you should not construe any such information or other material as legal, tax, investment, financial, or other advice. Nothing contained in this program constitutes a solicitation, recommendation, endorsement, or offer by Dylan Nguyen or any persons related to Dreyfoos School of the Arts to buy or sell any securities or other financial instruments in this or in in any other jurisdiction in which such solicitation or offer would be unlawful under the securities laws of such jurisdiction.
+DISCLAIMER:The Content within these files are for informational purposes only, you should not construe any such information or other material as legal, tax, investment, financial, or other advice. Nothing contained in this program constitutes a solicitation, recommendation, endorsement, or offer by Dylan N. or any persons related to buy or sell any securities or other financial instruments in this or in in any other jurisdiction in which such solicitation or offer would be unlawful under the securities laws of such jurisdiction.
