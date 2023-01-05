@@ -62,6 +62,12 @@ class GetTickersToTrade:
         FinalList = StockTwitsReverse + RedditTwitterTrades
         res = []
         [res.append(x) for x in FinalList if x not in res]
+        
+        # Take out tickers with 5 letters (Typically 5 letter tickers are Over-The-Counter Stocks that don't trade on Alpaca Markets)
+        for x in res:
+            if len(x) <= 4:
+                res.append(x)
+                
         file = open("StocksToTrade.csv", "w")
         writer = csv.writer(file)
         for x in range(len(res)):
